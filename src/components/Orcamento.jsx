@@ -21,7 +21,7 @@ const Orcamento = () => {
           </p>
         </div>
         <div className='orcamento-paremetr-img'>
-          <img src="/public/orcamento/objetos.png" alt="" />
+          <img src="/orcamento/objetos.png" alt="" />
         </div>
       </article>
       <article className='flex-center gap-xxl orcamento-modelo container'>
@@ -44,10 +44,10 @@ const Orcamento = () => {
         </div>
         <div className='flex gap-xxl orcamento-modelo-corpo'>
           <div>
-            <img src="/public/orcamento/modelo1.png" alt="" />
+            <img src="/orcamento/modelo1.png" alt="" />
           </div>
           <div>
-            <img src="/public/orcamento/modelo2.png" alt="" />
+            <img src="/orcamento/modelo2.png" alt="" />
           </div>
         </div>
       </article>

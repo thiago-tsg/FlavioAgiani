@@ -19,11 +19,11 @@ const Footer = () => {
                 <div className='icons-footer'>
                     <h2>Rede Sociais</h2>
                     <ul className='flex-center gap-md'>
-                        <li><a href="#"><img src="/public/icons/instagram.svg" alt="" /></a></li>
-                        <li><a href="#"><img src="/public/icons/facebook.svg" alt="" /></a></li>
-                        <li><a href="#"><img src="/public/icons/youtube.svg" alt="" /></a></li>
-                        <li><a href="#"><img src="/public/icons/whatsapp-black.svg" alt="" /></a></li>
-                        <li><a href="#"><img src="/public/icons/linkedin.svg" alt="" /></a></li>
+                        <li><a href="#"><img src="/icons/instagram.svg" alt="" /></a></li>
+                        <li><a href="#"><img src="/icons/facebook.svg" alt="" /></a></li>
+                        <li><a href="#"><img src="/icons/youtube.svg" alt="" /></a></li>
+                        <li><a href="#"><img src="/icons/whatsapp-black.svg" alt="" /></a></li>
+                        <li><a href="#"><img src="/icons/linkedin.svg" alt="" /></a></li>
                     </ul>
                 </div>
             </div>

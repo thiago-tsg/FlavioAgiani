@@ -8,7 +8,7 @@ const Disponivel = () => {
         <p className='container'>Bem vindo a galeria de disponíveis! Cada desenho abaixo foi criado com originalidade e pensado para quem deseja carregar uma obra única. Se um deles ressoar com você, entre em contato para garantir o seu! </p>
         <article className='grid3col'>
             <div className='card-disponel'>
-                <img src="/public/disponiveis/Tiger Leaf - Micro Realismo.png" alt="" />
+                <img src="/disponiveis/Tiger Leaf - Micro Realismo.png" alt="" />
                 <h3><strong>Tiger Leaf - Micro Realismo</strong></h3>
                 <p><strong>Projeto Disponível</strong></p>
                 <p><span>Tamanho: </span>07cm - 10cm</p>
@@ -18,7 +18,7 @@ const Disponivel = () => {
                 <button className='btn'>Reservar</button>
             </div>
             <div className='card-disponel'>
-                <img src="/public/disponiveis/Geometric Jaguar- Micro Realismo.jpg" alt="" />
+                <img src="/disponiveis/Geometric Jaguar- Micro Realismo.jpg" alt="" />
                 <h3><strong>Geometric Jaguar- Micro Realismo</strong></h3>
                 <p><strong>Projeto Disponível</strong></p>
                 <p><span>Tamanho:</span> 07cm - 10cm</p>
@@ -28,7 +28,7 @@ const Disponivel = () => {
                 <button className='btn'>Reservar</button>
             </div>
             <div className='card-disponel'>
-                <img src="/public/disponiveis/Jaguar Leaf - Micro Realismo.png" alt="" />
+                <img src="/disponiveis/Jaguar Leaf - Micro Realismo.png" alt="" />
                 <h3><strong>Jaguar Leaf - Micro Realismo</strong></h3>
                 <p><strong>Projeto Disponível</strong></p>
                 <p><span>Tamanho:</span> 07cm - 10cm</p>
@@ -38,7 +38,7 @@ const Disponivel = () => {
                 <button className='btn'>Reservar</button>
             </div>
             <div className='card-disponel'>
-                <img src="/public/disponiveis/Angry Tiger - Micro Realismo.png" alt="" />
+                <img src="/disponiveis/Angry Tiger - Micro Realismo.png" alt="" />
                 <h3><strong>Angry Tiger - Micro Realismo</strong></h3>
                 <p><strong>Projeto Disponível</strong></p>
                 <p><span>Tamanho:</span> 07cm - 10cm</p>
@@ -48,7 +48,7 @@ const Disponivel = () => {
                 <button className='btn'>Reservar</button>
             </div>
             <div className='card-disponel'>
-                <img src="/public/disponiveis/Tiger Strength - Micro Realismo.png" alt="" />
+                <img src="/disponiveis/Tiger Strength - Micro Realismo.png" alt="" />
                 <h3><strong>Tiger Strength - Micro Realismo</strong></h3>
                 <p><strong>Projeto Disponível</strong></p>
                 <p><span>Tamanho:</span> 07cm - 10cm</p>
@@ -58,7 +58,7 @@ const Disponivel = () => {
                 <button className='btn'>Reservar</button>
             </div>
             <div className='card-disponel'>
-                <img src="/public/disponiveis/Jaguar's Walk - Micro Realismo.png" alt="" />
+                <img src="/disponiveis/Jaguar's Walk - Micro Realismo.png" alt="" />
                 <h3><strong>Jaguar's Walk - Micro Realismo</strong></h3>
                 <p><strong>Projeto Disponível</strong></p>
                 <p><span>Tamanho:</span> 07cm - 10cm</p>
@@ -68,7 +68,7 @@ const Disponivel = () => {
                 <button className='btn'>Reservar</button>
             </div>
             <div className='card-disponel'>
-                <img src="/public/disponiveis/The Deer - Fine Art • Floral.png" alt="" />
+                <img src="/disponiveis/The Deer - Fine Art • Floral.png" alt="" />
                 <h3><strong>The Deer - Fine Art • Floral</strong></h3>
                 <p><strong>Projeto Disponível</strong></p>
                 <p><span>Tamanho:</span> 07cm - 10cm</p>
@@ -78,7 +78,7 @@ const Disponivel = () => {
                 <button className='btn'>Reservar</button>
             </div>
             <div className='card-disponel'>
-                <img src="/public/disponiveis/Flower Bracelet- Fine Art • Floral.png" alt="" />
+                <img src="/disponiveis/Flower Bracelet- Fine Art • Floral.png" alt="" />
                 <h3><strong>Flower Bracelet- Fine Art • Floral</strong></h3>
                 <p><strong>Projeto Disponível</strong></p>
                 <p><span>Tamanho:</span> 07cm - 10cm</p>
@@ -88,7 +88,7 @@ const Disponivel = () => {
                 <button className='btn'>Reservar</button>
             </div>
             <div className='card-disponel'>
-                <img src="/public/disponiveis/Peonies Floral - Fine Art • Floral.png" alt="" />
+                <img src="/disponiveis/Peonies Floral - Fine Art • Floral.png" alt="" />
                 <h3><strong>Peonies Floral - Fine Art • Floral</strong></h3>
                 <p><strong>Projeto Disponível</strong></p>
                 <p><span>Tamanho:</span> 07cm - 10cm</p>

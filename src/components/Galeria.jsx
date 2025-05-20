@@ -8,46 +8,46 @@ import '../styles/Galeria.scss';
 
 const itemData = [
     {
-        img: '/public/galeria/galeria.jpg',
+        img: '/galeria/galeria.jpg',
         featured: true,
     },
     {
-        img: '/public/galeria/galeria-0.jpg',
+        img: '/galeria/galeria-0.jpg',
     },
     {
-        img: '/public/galeria/galeria-1.jpeg',
+        img: '/galeria/galeria-1.jpeg',
     },
     {
-        img: '/public/galeria/galeria-2.jpeg',
+        img: '/galeria/galeria-2.jpeg',
     },
     {
-        img: '/public/galeria/galeria-3.jpeg',
+        img: '/galeria/galeria-3.jpeg',
     },
     {
-        img: '/public/galeria/galeria-4.jpeg',
+        img: '/galeria/galeria-4.jpeg',
         featured: true,
     },
     {
-        img: '/public/galeria/galeria-5.jpeg',
+        img: '/galeria/galeria-5.jpeg',
     },
     {
-        img: '/public/galeria/galeria-6.jpeg',
+        img: '/galeria/galeria-6.jpeg',
     },
     {
-        img: '/public/galeria/galeria-7.jpeg',
+        img: '/galeria/galeria-7.jpeg',
     },
     {
-        img: '/public/galeria/galeria-8.jpeg',
+        img: '/galeria/galeria-8.jpeg',
     },
     {
-        img: '/public/galeria/galeria-9.jpeg',
+        img: '/galeria/galeria-9.jpeg',
         featured: true,
     },
     {
-        img: '/public/galeria/galeria-10.jpeg',
+        img: '/galeria/galeria-10.jpeg',
     },
     {
-        img: '/public/galeria/galeria-11.jpg',
+        img: '/galeria/galeria-11.jpg',
     },
 ];
 
@@ -92,7 +92,7 @@ const Galeria = () => {
             <p className='container text-marcas'>📌 "As marcas exibidas correspondem aos produtos que utilizo no meu trabalho. Não possuo vínculo, patrocínio ou parceria com essas empresas." </p>
 
             <div className='flex-center marcas-img'>
-                <img src="/public/marcas.png" alt="" />
+                <img src="/marcas.png" alt="" />
             </div>
         </section>
     );

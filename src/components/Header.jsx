@@ -48,7 +48,7 @@ const Header = () => {
             <div className='menu-container space-between'>
                 <div className='logo-header-container flex gap-md'>
                     <div className='logo-header'>
-                        <img src="/public/logo.jpeg" alt="Logo Flávio Agiani" />
+                        <img src="logo.jpeg" alt="Logo Flávio Agiani" />
                     </div>
                     <h2>Flávio Agiani</h2>
                 </div>

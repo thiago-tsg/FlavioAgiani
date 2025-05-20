@@ -1,5 +1,5 @@
 import React from 'react';
-import whatsappIcon from '/public/icons/whatsapp.svg';
+import whatsappIcon from '/icons/whatsapp.svg';
 
 //style
 import '../styles/ButtonWhats.scss';

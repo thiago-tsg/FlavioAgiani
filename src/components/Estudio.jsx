@@ -14,7 +14,7 @@ const Estudio = () => {
         </p>
         <div className='flex-center gap-xxl estudio-container container'>
           <div>
-            <img src="/public/estudio/estudio1.jpg" alt="" />
+            <img src="/estudio/estudio1.jpg" alt="" />
           </div>
           <div>
             <p>
@@ -38,7 +38,7 @@ const Estudio = () => {
             </p>
           </div>
           <div>
-            <img src="/public/estudio/estudio2.jpg" alt="" />
+            <img src="/estudio/estudio2.jpg" alt="" />
           </div>
         </div>
         <p className='text-estudio container'>
@@ -46,7 +46,7 @@ const Estudio = () => {
         </p>
         <div className='flex-center gap-xxl estudio-container container'>
           <div>
-            <img src="/public/estudio/tintas.jpg" alt="" />
+            <img src="/estudio/tintas.jpg" alt="" />
           </div>
           <div>
             <p>
@@ -82,7 +82,7 @@ const Estudio = () => {
         </p>
 
         <div className='flex-center marcas-img'>
-          <img src="/public/marcas.png" alt="" />
+          <img src="/marcas.png" alt="" />
         </div>
       </div>
     </section>
