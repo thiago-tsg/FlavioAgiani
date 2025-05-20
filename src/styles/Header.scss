@@ -1,0 +1,102 @@
+//Imagens dinamicas dos header dos components
+.header-bg-home {
+  background-image: url("/public/header/img-header.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: 0;
+  height: 60vh;
+}
+
+.header-bg-disponiveis {
+  background-image: url("/public/header/img-disponivel.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: 0;
+  height: 60vh;
+}
+
+.header-bg-orcamento {
+  background-image: url("/public/header/img-orcamento.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: 0;
+  height: 60vh;
+}
+
+.header-bg-sobre {
+  background-image: url("/public/header/img-sobre.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: 0;
+  height: 60vh;
+}
+
+.header-bg-estudio {
+  background-image: url("/public/header/img-estudio.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: 0;
+  height: 60vh;
+}
+
+.page-title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+}
+
+//Component Header
+Header {
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.348);
+    z-index: -1;
+  }
+
+  .logo-header-container {
+    .logo-header {
+      width: 3rem;
+      height: 3rem;
+      img {
+        width: 100%;
+      }
+    }
+    h2 {
+      color: white;
+      font-weight: 400;
+    }
+  }
+
+  a {
+    color: white;
+    font-weight: 700;
+  }
+
+  .info-header {
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+
+    h1,
+    p,
+    span {
+      color: white;
+      padding-bottom: 1.5rem;
+    }
+  }
+}

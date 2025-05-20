@@ -1,0 +1,52 @@
+.orcamento-container {
+  .text-titu-orcamento {
+    text-align: center;
+    padding-bottom: 1.5rem;
+    background-color: white;
+
+    &:first-of-type {
+      padding-top: 1.5rem;
+    }
+  }
+
+  .orcamento-paremetro {
+    padding-top: 1.5rem;
+
+    .orcamento-paremetro-text {
+      padding-bottom: 1.5rem;
+    }
+
+    .orcamento-paremetr-img {
+      width: 100%;
+      img {
+        width: 100%;
+      }
+    }
+  }
+
+  .orcamento-modelo {
+    background-image: url(/public/orcamento/background-modelo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 3rem;
+    .orcamento-modelo-text {
+      padding-bottom: 1.5rem;
+    }
+
+    .orcamento-modelo-corpo {
+      img {
+        width: 100%;
+      }
+    }
+  }
+
+  .text-bottom {
+    text-align: center;
+    padding: 2rem;
+  }
+
+  button {
+    margin-bottom: 2rem;
+  }
+}

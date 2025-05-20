@@ -1,0 +1,37 @@
+footer {
+  background-color: rgb(167, 167, 167);
+
+  .menu-footer-container {
+    justify-content: center;
+
+    .menu-footer {
+      li {
+        padding-bottom: 0.5rem;
+
+        a {
+          transition: 0.2s;
+          &:hover {
+            color: rgb(255, 255, 255);
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+
+    .icons-footer {
+      h2 {
+        padding-bottom: .5rem;
+      }
+      img {
+        width: 2rem;
+      }
+    }
+  }
+
+  p {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 0.5rem;
+  }
+}
